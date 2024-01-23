@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 2023, jan        Alexandre, Donald 
-# divisibilidade 
+# 2023, jan        Alexandre e Professor Raí
+# critérios de divisibilidade 
 import numpy as np
 
 # n - dividendo

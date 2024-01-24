@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 2023, jan        Alexandre e Professor Raí
+# 2024, jan        Alexandre e Professor Raí
 # critérios de divisibilidade 
 import numpy as np
 

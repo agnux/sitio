@@ -12,3 +12,6 @@ def mmc(e1, e2, n):
     L2.append( e2 * i)
   S = L1 | L2
 
+# teste de acurácia
+Sol = mmc(3, 12, 20)
+print(Sol)

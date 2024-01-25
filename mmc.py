@@ -1,4 +1,6 @@
-
+#!/usr/bin/python3
+# 2024, jan        Alexandre e Professor Raí
+# critérios de divisibilidade 
 
 
 L1 = []

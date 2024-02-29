@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** feb, 29 2024 Donald, Alexandre, Rai
+/** feb, 29 2024 Donald, Alexandre, はい 
     Alimentação de matrix retangular (3x3)+
 **/
  

@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "changeRows.h"
 /** feb, 29 2024 Donald, Alexandre, はい 
     Alimentação de matrix retangular (3x3)+
 **/

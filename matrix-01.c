@@ -19,5 +19,5 @@ int main(void){
    }
 
    for (int i=0; i<ROWS; i++)
-      printf("%0.2f - %0.2f  -  %0.2f - %0.2f\n", matrix[i][0], matrix[i][1], matrix[i][2], matrix[i][3], matrix[i][4]);
+      printf("%0.2f - %0.2f  -  %0.2f - %0.2f\n", matrix[i][0], matrix[i][1], matrix[i][2], matrix[i][3]);
 }

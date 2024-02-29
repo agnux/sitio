@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "changeRows.h"
+
 /** feb, 29 2024 Donald, Alexandre, はい 
     Alimentação de matrix retangular (3x3)+
 **/
@@ -18,9 +18,6 @@ int main(void){
          scanf("%lf", &matrix_A[i][j]);
       }
    }
-
-   /** operação para comutar equação1 com equação2); **/
-   matrix_A = changeRows( matrix_A, 1, 2 );
 
    for (int i=0; i<ROWS; i++)
       printf("%0.2f - %0.2f  -  %0.2f - %0.2f\n", matrix_A[i][0], matrix_A[i][1], matrix_A[i][2], matrix_A[i][3]);

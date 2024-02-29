@@ -19,6 +19,9 @@ int main(void){
       }
    }
 
+   /** operação para comutar equação1 com equação2); **/
+   matrix_A = changeRows( matrix_A, 1, 2 );
+
    for (int i=0; i<ROWS; i++)
-      printf("%0.2f - %0.2f  -  %0.2f - %0.2f\n", matrix[i][0], matrix[i][1], matrix[i][2], matrix[i][3]);
+      printf("%0.2f - %0.2f  -  %0.2f - %0.2f\n", matrix_A[i][0], matrix_A[i][1], matrix_A[i][2], matrix_A[i][3]);
 }
